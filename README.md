@@ -26,6 +26,8 @@
 - ### SweetAlert2 v11.4.26
   #### _For custom alerts of purchase, stock limit and product added to cart._
 
+##
+
 Link del proyecto: [https://github.com/EmilioNGuillen/Proyecto-Final-React-Js-CoderHouse](https://github.com/EmilioNGuillen/Proyecto-Final-React-Js-CoderHouse)
 
 Web Deployment: [https://audiophile-emilioguillen.netlify.app/](https://audiophile-emilioguillen.netlify.app/)
