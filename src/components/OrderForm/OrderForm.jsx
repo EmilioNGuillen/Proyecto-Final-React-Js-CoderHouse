@@ -1,3 +1,14 @@
+// FIRESTORE
+import {
+  addDoc,
+  collection,
+  documentId,
+  getDocs,
+  getFirestore,
+  query,
+  where,
+  writeBatch,
+} from 'firebase/firestore';
 
 
 // REACT-HOOK-FORM

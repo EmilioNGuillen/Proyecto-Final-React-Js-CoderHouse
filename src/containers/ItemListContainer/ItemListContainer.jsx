@@ -1,4 +1,11 @@
-
+// FIRESTORE
+import {
+  collection,
+  getDocs,
+  getFirestore,
+  query,
+  where,
+} from 'firebase/firestore';
 
 // REACT COMPONENTS
 import { useState, useEffect } from 'react';

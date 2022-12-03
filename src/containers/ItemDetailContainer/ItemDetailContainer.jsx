@@ -1,4 +1,5 @@
-
+// FIREBASE
+import { doc, getDoc, getFirestore } from 'firebase/firestore';
 
 // REACT COMPONENTS
 import { useEffect, useState } from 'react';
