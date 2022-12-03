@@ -12,7 +12,7 @@ import { initFirebase } from './firebase/config';
 import './index.scss';
 import "./global.scss"
 
-
+initFirebase();
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
